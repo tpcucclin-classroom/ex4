@@ -1,0 +1,40 @@
+* {
+    font-size: 30px;
+}
+
+p {
+    margin-top: 0;
+}
+
+#all {
+    width: 900px;
+    margin: 0px auto;
+}
+
+#header {
+    height: 100px;
+    background-color: red;
+}
+
+#wrapper {
+    float: left;
+    width: 100%;
+}
+
+#main {
+    margin-left: 180px;
+    background-color: green;
+}
+
+#side {
+    float: left;
+    width: 180px;
+    margin-left: -100%;
+    background-color: blue;
+}
+
+#footer {
+    clear: both;
+    height: 100px;
+    background-color: yellow;
+}
